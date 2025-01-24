@@ -1,2 +1,3 @@
 # github-demo
-y first github demo
+my first github demo.
+author:sham kumbhar
